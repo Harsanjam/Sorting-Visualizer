@@ -21,14 +21,13 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/anjalig21/Sorting-Visualizer">
+  <a href="https://github.com/Harsanjam/Sorting-Visualizer">
     <img src="images/sort.gif" alt="Logo" width="300" height="200">
   </a>
 
@@ -37,9 +36,9 @@
   <p align="center">
     Automated the visualization of various sorting algorithm using pygame
     <br />
-    <a href="https://github.com/anjalig21/Sorting-Visualizer/issues">Report Bug</a>
+    <a href="https://github.com/Harsanjam/Sorting-Visualizer/issues">Report Bug</a>
     ·
-    <a href="https://github.com/anjalig21/Sorting-Visualizer/issues">Request Feature</a>
+    <a href="https://github.com/Harsanjam/Sorting-Visualizer/issues">Request Feature</a>
   </p>
 </div>
 
@@ -110,7 +109,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/anjalig21/Sorting-Visualizer.git
+   git clone https://github.com/Harsanjam/Sorting-Visualizer.git
    ```
 2. Make sure Pygame is installed
    ```sh
@@ -159,24 +158,21 @@ Distributed under the MIT License.
 <!-- CONTACT -->
 ## Contact
 
-Anjali Gupta - anjaligta@outlook.com
 
-Project Link: [https://github.com/anjalig21/Sorting-Visualizer](https://github.com/anjalig21/Sorting-Visualizer)
+Project Link: [https://github.com/Harsanjam/Sorting-Visualizer](https://github.com/Harsanjam/Sorting-Visualizer)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/anjalig21/Sorting-Visualizer.svg?style=for-the-badge
-[contributors-url]: https://github.com/anjalig21/Sorting-Visualizer/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/anjalig21/Sorting-Visualizer.svg?style=for-the-badge
-[forks-url]: https://github.com/anjalig21/Sorting-Visualizer/network/members
-[stars-shield]: https://img.shields.io/github/stars/anjalig21/Sorting-Visualizer.svg?style=for-the-badge
-[stars-url]: https://github.com/anjalig21/Sorting-Visualizer/stargazers
-[issues-shield]: https://img.shields.io/github/issues/anjalig21/Sorting-Visualizer.svg?style=for-the-badge
-[issues-url]: https://github.com/anjalig21/Sorting-Visualizer/issues
-[license-shield]: https://img.shields.io/github/license/anjalig21/Sorting-Visualizer.svg?style=for-the-badge
-[license-url]: https://github.com/anjalig21/Sorting-Visualizer/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/anjali-gupta21
+[contributors-shield]: https://img.shields.io/github/contributors/Harsanjam/Sorting-Visualizer.svg?style=for-the-badge
+[contributors-url]: https://github.com/Harsanjam/Sorting-Visualizer/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Harsanjam/Sorting-Visualizer.svg?style=for-the-badge
+[forks-url]: https://github.com/Harsanjam/Sorting-Visualizer/network/members
+[stars-shield]: https://img.shields.io/github/stars/Harsanjam/Sorting-Visualizer.svg?style=for-the-badge
+[stars-url]: https://github.com/Harsanjam/Sorting-Visualizer/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Harsanjam/Sorting-Visualizer.svg?style=for-the-badge
+[issues-url]: https://github.com/Harsanjam/Sorting-Visualizer/issues
+[license-shield]: https://img.shields.io/github/license/Harsanjam/Sorting-Visualizer.svg?style=for-the-badge
+[license-url]: https://github.com/Harsanjam/Sorting-Visualizer/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
